@@ -42,7 +42,8 @@ $ llm embed-models default Qwen3-Embedding-4B-4bit-DWQ
 ## TODO
 - [ ] Document
 - [ ] Add tests
-- [ ] File issue with upstream to determine if this should be a feature in llm-mlx instead of an additional plugin.
+- [x] File issue with upstream to determine if this should be a feature in llm-mlx instead of an additional plugin.
+  - Done, see https://github.com/simonw/llm-mlx/issues/26
 
 ## References
 * https://llm.datasette.io/en/stable/plugins/tutorial-model-plugin.html
