@@ -1,0 +1,6 @@
+[project]
+name = "llm-mlx-embed"
+version = "0.1"
+
+[project.entry-points.llm]
+MlxEmbeddingModel = "llm_mlx_embed"
