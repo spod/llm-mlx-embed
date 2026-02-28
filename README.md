@@ -2,6 +2,10 @@
 
 A plugin for [simonw/llm](https://github.com/simonw/llm) to use with [simonw/llm-mlx](https://github.com/simonw/llm-mlx) to register MLX embedding models for use with llm embeddings functionality.
 
+## POC
+This is primarily a proof of concept to reference in https://github.com/simonw/llm-mlx/issues/26.
+While it works for the author, it's not distributed as an [LLM Plugin](https://llm.datasette.io/en/stable/plugins/tutorial-model-plugin.html#distributing-your-plugin), if you want to use it you'll need to install it manually from source.
+
 ## Sample usage
 ``` bash
 # Install llm and llm-mlx (assumes uv)
